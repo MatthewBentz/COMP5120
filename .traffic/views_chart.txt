@@ -1,7 +1,4 @@
-# COMP5120
-Database Systems I with Yang Zhou at Auburn University
 
-```
     Total Views per Day from 2022-08-27 to 2022-09-08
 
     Repository Views
@@ -24,8 +21,3 @@ Database Systems I with Yang Zhou at Auburn University
 
     Chart last updated - Thu Sep  8 14:19:19 2022 UTC
     
-```
-
----
-
-> RepoStats by [Wumphlett](https://github.com/Wumphlett)
